@@ -1,0 +1,16 @@
+# Allure test results
+allure-results/
+TestResults/
+
+# Build results
+bin/
+obj/
+
+# Test coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Temporary files
+*.tmp
+*.temp 
